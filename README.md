@@ -12,4 +12,8 @@ Steps to compile with CC65:
 
 Next, just run 24-sprites.prg in your choice of C64 emulator.
 
+16-sprites.c draws 16 horizontally moving sprites. 16-sprites.c can be compiled to an emulator as described above.
+
+Picture of 24-sprites.c compiled to C64 emulator:
+
 ![24-sprites](https://github.com/tickBit/C64-multiplexed-sprites/assets/61118857/66a5efcd-6b17-4937-b277-734cd6c906a6)
